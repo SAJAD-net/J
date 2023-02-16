@@ -1,0 +1,38 @@
+button{
+  font-family: sans-serif;
+  margin: 0px 5px 3px 0px;
+  font-size: 15px;
+  border: 2px solid green;
+  text-align: center !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  color: white;
+  background-color: green;
+}
+
+#button1 {
+margin-left: 115px !important;
+}
+
+#button2 {
+margin-left: 10px !important;
+}
+
+#length {
+  width: 60px;
+  margin-left: 10px;
+}
+
+#password {
+  margin-bottom: 10px;
+}
+
+#label {
+  margin-left: 5px;
+}
