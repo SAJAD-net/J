@@ -1,0 +1,19 @@
+{
+    "name": "JPass",
+    "version": "1.0.0",
+    "description": "Secure Password Generator",
+    "manifest_version": 2,
+    "author": "Sajjad Chehrazi (SAJADnet)",
+    "icons": {
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "128": "icons/128.png"
+    },
+    "browser_action":{
+        "default_icon": "icons/128.png",
+        "default_popup": "popup.html",
+        "default_title": "Password Generator"
+    }
+}
